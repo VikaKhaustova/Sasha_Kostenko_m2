@@ -81,6 +81,7 @@ main{
     text-align: center;
     background-color:#2a5ab5 ;
     font-size:25px ;
+  
     
 }
 .logia{
@@ -110,3 +111,10 @@ main{
 }
 
 
+div{
+      padding: 0 50px;
+}
+footer{
+    text-align: center;
+    padding: 20px;;
+}
